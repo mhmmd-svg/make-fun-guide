@@ -177,6 +177,15 @@ Every account gets a referral link like `https://make.fun/r/<code>` — `?ref=<c
 
 If this guide helped, signing up through [my link](https://make.fun/r/11q0rpmc) (code `11q0rpmc`) is a nice way to say thanks.
 
+## How the referral leaderboard works
+
+For this bounty, your place on the leaderboard is the number of real people who sign up through your link and take part — not how polished your guide is. That changes what to do after you submit:
+
+- **Share the link where beginners already are.** A short video or post showing your own first win (a submitted entry, a first referral) beats a bare link.
+- **Only real new accounts count.** Signups are reviewed for at least a day; self-signups and bots are filtered out.
+- **Your share keeps paying.** You also earn 10% of what your referrals win for 90 days, paid by make.fun on top of their prize.
+- **Track it on your profile.** The Referrals tab shows signups, first submissions, and prize shares as they are counted.
+
 ## FAQ
 
 **Does it cost anything?**
